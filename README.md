@@ -2,6 +2,18 @@
 Welcome to the Alumni Portal repository! This project is a comprehensive web application developed using PHP, Bootstrap, Axios, DataTables, jQuery, and MySQL. The portal serves as a centralized platform for alumni engagement, offering a seamless and user-friendly experience.
 <br><br>
 
+## Features
+**User**
+- Connect with fellow alumni
+- Check out latest News and Events
+- Apply directly via Advertisement listings
+- Customizable profile info, picture and resume
+
+**Admin**
+- Easily manage user accounts (Approve/Reject/Remove registration)
+- Create/Edit/Delete events, news and advertisements
+<br><br>
+
 ## Quickstart (Windows-tested)
 1. Download [source code from release](https://github.com/kazcfz/Alumni-Portal/releases)
 2. Install [XAMPP for Windows](https://www.apachefriends.org/download.html)
@@ -10,7 +22,7 @@ Welcome to the Alumni Portal repository! This project is a comprehensive web app
 5. Start Apache and MySQL in the XAMPP Control Panel
 6. Enter `http://localhost/main.php` in your browser
 
-_* If you've extracted into another folder, enter `http://localhost/{your-folder-name}/main.php`)_
+_*If you've extracted into another folder, enter `http://localhost/{your-folder-name}/main.php`_
 
 <br>
 
