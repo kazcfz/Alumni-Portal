@@ -9,5 +9,20 @@ Welcome to the Alumni Portal repository! This project is a comprehensive web app
 4. Run XAMPP
 5. Start Apache and MySQL in the XAMPP Control Panel
 6. Enter `http://localhost/main.php` in your browser
-
 _* If you've extracted into another folder, enter `http://localhost/{your-folder-name}/main.php`)_
+
+<br>
+
+Sample admin account:
+```
+Email: admin@swin.edu.my
+Password: admin
+```
+
+Sample user account:
+```
+Email: user0@test.com
+Password: user
+```
+
+
