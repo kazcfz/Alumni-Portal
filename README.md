@@ -15,7 +15,7 @@ Welcome to the Alumni Portal repository! This project is a comprehensive web app
 <br><br>
 
 ## Quickstart (Windows-tested)
-1. Download [source code from release](https://github.com/kazcfz/Alumni-Portal/releases)
+1. Download [source code](https://github.com/kazcfz/Alumni-Portal/releases)
 2. Install [XAMPP for Windows](https://www.apachefriends.org/download.html)
 3. Extract source code in XAMPP's htdocs folder (_Default: `C:\xampp\htdocs`_)
 4. Run XAMPP
