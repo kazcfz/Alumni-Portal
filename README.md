@@ -25,5 +25,22 @@ Sample user account:
 Email: user0@test.com
 Password: user
 ```
+<br>
 
-
+## Screenshot Preview
+![Main](https://i.imgur.com/51SlCo8.png)
+![Login](https://imgur.com/DobvfrP.png)
+![Register](https://imgur.com/oeJjn1g.png)
+![Main Menu (User)](https://imgur.com/62brLlg.png)
+![View Alumni](https://imgur.com/FMxmwsD.png)
+![View Alumnus Details](https://imgur.com/C2C9Uql.png)
+![View Events/News](https://imgur.com/jeOp2Vz.png)
+![View Events/News (Register)](https://imgur.com/NaGPD9g.png)
+![View Advertisements](https://imgur.com/Tq2V0XB.png)
+![Advertisement Application Form](https://imgur.com/yD3IeXf.png)
+![Update Profile](https://imgur.com/nvt9cR7.png)
+![Main Menu (Admin)](https://imgur.com/qpqegqo.png)
+![Manage Accounts](https://imgur.com/hLi0fzj.png)
+![Manage Events/News](https://imgur.com/g1MfJJy.png)
+![Manage Advertisements](https://imgur.com/hyUwDNL.png)
+![Maintenance](https://imgur.com/l8fPJ3J.png)
